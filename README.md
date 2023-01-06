@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align = "center">
+    Welcome to my Github Profile
+</p>
 
-<!--
-**yogiealfin/yogiealfin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = "center">
+    Currently learning web programming.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<div align = "center">
+
+<p>
+
+![yogiealfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogiealfin&show_icons=true&theme=radical)
+
+</p>
+
+</div>
