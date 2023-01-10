@@ -14,7 +14,7 @@
 
 <p>
 
-[![Yogie's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogiealfinshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Yogie's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogiealfin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
