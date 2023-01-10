@@ -14,7 +14,7 @@
 
 <p>
 
-[![Yogie's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogiealfin&show_icons=true&theme=radical)]
+[![Yogie's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogiealfin&show_icons=true&theme=tokyonight)]
 
 </p>
 
