@@ -19,7 +19,7 @@
 
 <p>
 
-![Yogie's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogiealfin&show_icons=true&theme=tokyonight)
+![Yogie's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yogiealfin&show_icons=true&theme=tokyonight)
 
 </p>
 
