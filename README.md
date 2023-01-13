@@ -6,13 +6,7 @@
   </a>
 </div>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=48&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=500&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
-
-<p align = "center">
-    Currently learning web programming.
-</p>
-
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=48&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=500&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
 </br>
 
