@@ -6,7 +6,7 @@
   </a>
 </div>
 </div>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=48&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=500&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
+<img src="[https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Hyun+Welcome+to+my+Profile!](https://readme-typing-svg.demolab.com?font=Poppins&size=48&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=500&lines=Welcome+to+my+github+profile!)" align="middle" alt="Welcome to my github profile! animated typed out">
 
 </br>
 
