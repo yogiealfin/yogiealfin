@@ -13,7 +13,7 @@
 
 <div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2800&pause=2000&color=FAFAFA&vCenter=true&width=900&lines=My+name+is+Yogie+Alfin.+I'm+a++Junior+Web+Developer+from+Indonesia." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2800&pause=2000&color=FAFAFA&vCenter=true&width=900&lines=My+name+is+Yogie+Alfin%2C+i'm+a++Junior+Web+Developer+from+Indonesia." alt="Typing SVG" /></a>
 
 * :computer: I’m currently learning PHP and basic Javascript! <br>
 
@@ -24,13 +24,17 @@
 * :city_sunset: Hobbies :  Travelling, Gaming, Watch a Movies and Coding. <br>
 
 </div>
+<h2></h2><br>
 
-<div align = "center">
-
-<p>
-
-![Yogie's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yogiealfin&show_icons=true&theme=tokyonight)
-
-</p>
-
+<div>
+  <img align="right" src="assets/nightlife.gif" alt="Lofi Nightlight scene" />
+  <h2> <strong> :hammer_and_wrench: Skills and Tools </strong></h2>
+  <img src="https://skillicons.dev/icons?i=bash,git,linux,html,css, bootstap" alt="skills already aqquired learning logos"> <br>
+  <h2> <strong> :computer: Actively Learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=js,php" alt="skills actively learning logos"> <br>
+  <h2> <strong> :hourglass: Plan to Learn </strong></h2>
+  <img src="https://skillicons.dev/icons?i=tailwind,react,ts,laravel,nodejs,mongodb" alt="skills planning to learn logos">
 </div>
+
+
+
