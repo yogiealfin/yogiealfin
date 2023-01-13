@@ -32,7 +32,7 @@
   <h2> <strong> :computer: Actively Learning </strong></h2>
   <img src="https://skillicons.dev/icons?i=js,php" alt="skills actively learning logos"> <br>
   <h2> <strong> :hourglass: Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=tailwind,react,ts,laravel,nodejs,mongodb" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=tailwind,react,ts,laravel,nodejs,mongodb,py" alt="skills planning to learn logos">
 </div>
 
 <br><br>
