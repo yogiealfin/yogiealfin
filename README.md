@@ -28,12 +28,14 @@
 
 <div>
   <img align="right" src="assets/nightlife.gif" alt="Lofi Nightlight scene" />
+  <div align="left">
   <h2> <strong> :hammer_and_wrench: Skills and Tools </strong></h2>
   <img src="https://skillicons.dev/icons?i=bash,git,linux,html,css, bootstap" alt="skills already aqquired learning logos"> <br>
   <h2> <strong> :computer: Actively Learning </strong></h2>
   <img src="https://skillicons.dev/icons?i=js,php" alt="skills actively learning logos"> <br>
   <h2> <strong> :hourglass: Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=tailwind,react,ts,laravel,nodejs,mongodb" alt="skills planning to learn logos">
+  </div>
 </div>
 
 <br><br>
