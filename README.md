@@ -25,7 +25,7 @@
 
 </div>
 <h2></h2><br>
-  <img align="right" src="assets/nightlife.gif" alt="Lofi Nightlight scene" />
+  <img align="right" src="assets/nightlife.gif" alt="Lofi Nightlight scene" width="500"/>
 <div>
   <h2> <strong> :hammer_and_wrench: Skills and Tools </strong></h2>
   <img src="https://skillicons.dev/icons?i=bash,git,linux,html,css, bootstap" alt="skills already aqquired learning logos"> <br>
