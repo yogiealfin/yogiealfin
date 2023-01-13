@@ -36,5 +36,13 @@
   <img src="https://skillicons.dev/icons?i=tailwind,react,ts,laravel,nodejs,mongodb" alt="skills planning to learn logos">
 </div>
 
+<br><br>
+<img  src="assets/borderseperator.gif">
 
+<div align="center">
+  <h2> <strong> My Github Stats </strong></h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yogiealfin&theme=tokyonight" height="150" alt="streaks graph"  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yogiealfin&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
+  
+</div> <br>
 
