@@ -21,7 +21,7 @@
 
 * :dart: My Goals for 2023 is to Become a Full-Stack Developer and Contribute to an Open Source Project <br>
 
-* :city_sunset: Hobbies :  Travelling (especially nature!), Gaming, Watch a Movies and Coding. <br>
+* :city_sunset: Hobbies :  Travelling, Gaming, Watch a Movies and Coding. <br>
 
 </div>
 <h2></h2><br>
