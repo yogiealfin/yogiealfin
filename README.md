@@ -15,7 +15,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2800&pause=2000&color=FAFAFA&vCenter=true&width=900&lines=My+name+is+Yogie+Alfin%2C+i'm+a++Junior+Web+Developer+from+Indonesia." alt="Typing SVG" /></a>
 
-* :computer: I’m currently learning PHP and basic Javascript! <br>
+* :computer: I’m currently learning React JS! <br>
 
 * :paw_prints: I’m looking to make friends here with fellow developer here! <br>
 
