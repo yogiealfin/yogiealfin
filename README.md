@@ -19,7 +19,7 @@
 
 * :paw_prints: I’m looking to make friends here with fellow developer here! <br>
 
-* :dart: My Goals for 2024 is to become a Full-Stack Developer and Contribute to an Open Source Project <br>
+* :dart: My Goals for 2024 is to become a Full-Stack Developer and work on more freelance job! <br>
 
 * :city_sunset: Hobbies :  Travelling, Gaming, Watch a Movies. <br>
 
