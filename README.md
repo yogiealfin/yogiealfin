@@ -13,13 +13,13 @@
 
 <div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2800&pause=2000&color=FAFAFA&vCenter=true&width=900&lines=My+name+is+Yogie+Alfin%2C+i'm+a++Full+-+Stack+Developer+from+Indonesia." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2800&pause=2000&color=FAFAFA&vCenter=true&width=900&lines=My+name+is+Yogie+Alfin%2C+i'm+a++Full+Stack+Developer+from+Indonesia." alt="Typing SVG" /></a>
 
 * :computer: I’m currently learning Vue JS! <br>
 
 * :paw_prints: I’m looking to make friends here with fellow developer here! <br>
 
-* :dart: My Goals for 2024 is to become a Full-Stack Developer and work on more freelance job! <br>
+* :dart: My Goals for 2024 is to become a Full Stack Developer and work on more freelance job! <br>
 
 * :city_sunset: Hobbies :  Travelling, Gaming, Watch a Movies. <br>
 
