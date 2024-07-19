@@ -28,7 +28,7 @@
   <img align="right" src="assets/nightlife.gif" alt="Lofi Nightlight scene" width="500"/>
 <div>
   <h2> <strong> :hammer_and_wrench: Skills and Tools </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,js" alt="skills already aqquired learning logos"> <br>
+  <img src="https://skillicons.dev/icons?i=html,tailwind,bootstrap,laravel,js" alt="skills already aqquired learning logos"> <br>
   <h2> <strong> :computer: Currently Learning </strong></h2>
   <img src="https://skillicons.dev/icons?i=vue" alt="skills actively learning logos"> <br>
   <h2> <strong> :hourglass: Plan to Learn </strong></h2>
